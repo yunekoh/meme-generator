@@ -1,8 +1,16 @@
-# React + Vite
+# React Meme Party App 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Meme Mood:
+We've got a state named `meme` – it's the meme mood ring. Ready to vibe with your text.
 
-Currently, two official plugins are available:
+## Meme Depot:
+Sneaky `useEffect` fetches memes from Imgflip. We've got a stash called `allMemes`. Shh, it's our secret meme club.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Random Meme Party:
+Hit "Get a new meme," and boom! Our meme DJ, `getMemeImage`, picks a random meme. It's a surprise party every click!
+
+## Text Ninja:
+Use `handleChange` to sneak in your top and bottom text. Be a text ninja, no one's stopping you.
+
+## Showtime Vibes:
+Look at that meme runway! Your meme, your text – the spotlight's on you.
